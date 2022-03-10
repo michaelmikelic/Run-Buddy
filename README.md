@@ -8,7 +8,7 @@ A website that offers fitness training services
 * *CSS
 
 ## Website
-
+https://github.com/michaelmikelic/Run-Buddy.git
 
 ## Contribution
 Made by Michael Mikelic
